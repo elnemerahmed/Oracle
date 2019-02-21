@@ -1,0 +1,7 @@
+C:\Users\Ahmed El Nemer\source\repos\x\Oracle\Oracle\bin\Debug\Oracle.exe.config
+C:\Users\Ahmed El Nemer\source\repos\x\Oracle\Oracle\bin\Debug\Oracle.exe
+C:\Users\Ahmed El Nemer\source\repos\x\Oracle\Oracle\bin\Debug\Oracle.pdb
+C:\Users\Ahmed El Nemer\source\repos\x\Oracle\Oracle\obj\Debug\Oracle.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed El Nemer\source\repos\x\Oracle\Oracle\obj\Debug\Oracle.exe
+C:\Users\Ahmed El Nemer\source\repos\x\Oracle\Oracle\obj\Debug\Oracle.pdb
+C:\Users\Ahmed El Nemer\source\repos\x\Oracle\Oracle\obj\Debug\Oracle.csprojAssemblyReference.cache

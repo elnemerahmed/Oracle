@@ -24,7 +24,7 @@ namespace Oracle
                 {
                     Console.Write("-    Root@root# Iam Listening: ");
                     string input = Console.ReadLine();
-                    if (input.Equals("start".ToLower()))
+                    if (input.ToLower().Equals("start"))
                     {
                         try
                         {
@@ -49,7 +49,7 @@ namespace Oracle
                             Console.ForegroundColor = ConsoleColor.White;
                         }
                     }
-                    else if (input.Equals("stop".ToLower()))
+                    else if (input.ToLower().Equals("stop"))
                     {
                         try
                         {
@@ -74,7 +74,7 @@ namespace Oracle
                             Console.ForegroundColor = ConsoleColor.White;
                         }
                     }
-                    else if (input.Equals("exit".ToLower()))
+                    else if (input.ToLower().Equals("exit"))
                     {
                         break;
                     }
